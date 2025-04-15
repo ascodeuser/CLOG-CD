@@ -30,5 +30,7 @@ To run this project, you'll need the following dependencies:
 
 ### Citation
 If you use this code or method in your research, please cite the following paper:
+
 *Asmaa Abbas, Mohamed Medhat Gaber, and Mohammed M. Abdelsamea*
+
 _IEEE Transactions on Emerging Topics in Computing_
