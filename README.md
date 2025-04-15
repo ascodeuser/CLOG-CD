@@ -1,5 +1,5 @@
-# CLOG-CD
-## CURVETE: Curriculum Learning and Progressive Self-supervised Training for Medical Image Classification
+## CLOG-CD: Curriculum Learning based on Oscillating Granularity of Class Decomposed Medical Image Classification
+
 
 ## Introduction
 
