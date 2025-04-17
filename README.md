@@ -26,7 +26,10 @@ To run this project, you'll need the following dependencies:
   - `Matplotlib`
   - `scikit-learn`
   - `OpenCV`
- 
+
+ ## Model Overview
+
+![Model Figure](images/CLOG_CD_Model.png)
 
 ### Citation
 If you use this code or method in your research, please cite the following paper:
