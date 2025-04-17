@@ -30,7 +30,8 @@ To run this project, you'll need the following dependencies:
 
 ### Citation
 If you use this code or method in your research, please cite the following paper:
-_*CLOG-CD: Curriculum Learning based on Oscillating Granularity of Class Decomposed Medical Image Classification." Manuscript submitted for publication, IEEE Transactions on Emerging Topics in Computing, 2023.*_
+
+**CLOG-CD: Curriculum Learning based on Oscillating Granularity of Class Decomposed Medical Image Classification." Manuscript submitted for publication, IEEE Transactions on Emerging Topics in Computing, 2023.**
 
 *Asmaa Abbas, Mohamed Medhat Gaber, and Mohammed M. Abdelsamea*
 
