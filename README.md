@@ -30,13 +30,13 @@ To run this project, you'll need the following dependencies:
  ## Model Overview
  
 <p align="center">
-  <img src="https://github.com/ascodeuser/CLOG-CD/raw/main/image/CLOG-CD_Model.png" alt="Model Figure" width="700"/>
+  <img src="https://github.com/ascodeuser/CLOG-CD/raw/main/image/CLOG-CD_Model.png" alt="Model Figure" width="750"/>
 </p>
 
 ### Citation
 If you use this code or method in your research, please cite the following paper:
 
-**CLOG-CD: Curriculum Learning based on Oscillating Granularity of Class Decomposed Medical Image Classification." Manuscript submitted for publication, IEEE Transactions on Emerging Topics in Computing, 2023.**
+**CLOG-CD: Curriculum Learning based on Oscillating Granularity of Class Decomposed Medical Image Classification.", IEEE Transactions on Emerging Topics in Computing, 2023.**
 
 *Asmaa Abbas, Mohamed Medhat Gaber, and Mohammed M. Abdelsamea*
 
