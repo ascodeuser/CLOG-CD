@@ -30,7 +30,7 @@ To run this project, you'll need the following dependencies:
  ## Model Overview
  
 <p align="center">
-  <img src="https://github.com/ascodeuser/CLOG-CD/raw/main/images/CLOG-CD_Model.png" alt="Model Figure" width="600"/>
+  <img src="https://github.com/ascodeuser/CLOG-CD/raw/main/image/CLOG-CD_Model.png" alt="Model Figure" width="600"/>
 </p>
 
 ### Citation
