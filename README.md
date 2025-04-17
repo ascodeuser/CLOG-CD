@@ -29,7 +29,8 @@ To run this project, you'll need the following dependencies:
 
  ## Model Overview
 
-![Model Figure](image/CLOG-CD_Model.png)
+<img src="https://github.com/ascodeuser/CLOG-CD/raw/main/image/CLOG-CD_Model.png" alt="Model Figure" width="500"/>
+
 
 ### Citation
 If you use this code or method in your research, please cite the following paper:
