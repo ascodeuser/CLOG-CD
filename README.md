@@ -28,9 +28,10 @@ To run this project, you'll need the following dependencies:
   - `OpenCV`
 
  ## Model Overview
-
-<img src="https://github.com/ascodeuser/CLOG-CD/raw/main/image/CLOG-CD_Model.png" alt="Model Figure" width="500"/>
-
+ 
+<p align="center">
+  <img src="https://github.com/ascodeuser/CLOG-CD/raw/main/images/CLOG-CD_Model.png" alt="Model Figure" width="600"/>
+</p>
 
 ### Citation
 If you use this code or method in your research, please cite the following paper:
