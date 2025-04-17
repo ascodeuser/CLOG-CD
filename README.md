@@ -11,7 +11,7 @@ The results with ResNet-50 show that CLOG-CD has the ability to improve classifi
 has achieved 94.86%, 94.63%, 76.19%, and 99.45% for CXR, brain tumour, digital knee x-ray, and CRC datasets, respectively.
 
 ### Datasets Used
-CURVETE has been evaluated on three distinct medical image datasets:
+CLOG-CD has been evaluated on three distinct medical image datasets:
 1. **Chest x-ray Dataset**. [here](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 2. **Brain Tumor Dataset**. [here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 3. **Digital Knee X-ray Dataset**. [here](https://data.mendeley.com/datasets/t9ndx37v5h/1)
